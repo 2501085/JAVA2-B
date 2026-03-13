@@ -3,7 +3,7 @@ import java.time.LocalDate;
 public class Date {
     private int year;
     private int month;
-    private int day;
+    private  int day;
 
     public Date(int year, int month, int day) {
         this.year = year;
@@ -12,16 +12,12 @@ public class Date {
     }
 
     public int getAge() {
-
-    }
-
-    public int getAge(){
         int current = LocalDate.now().getYear();
-        return current
+        return current - year;
     }
 
     @Override
     public String toString() {
-        return String.format(" %d살", getAge());
+        return String.format("%d살", getAge());
     }
 }
