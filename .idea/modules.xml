@@ -10,12 +10,14 @@
       <module fileurl="file://$PROJECT_DIR$/week02/Sample01/Sample01.iml" filepath="$PROJECT_DIR$/week02/Sample01/Sample01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample02/Sample02.iml" filepath="$PROJECT_DIR$/week02/Sample02/Sample02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample03/Sample03.iml" filepath="$PROJECT_DIR$/week02/Sample03/Sample03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/Sample03-1/Sample03-1.iml" filepath="$PROJECT_DIR$/week03/Sample03-1/Sample03-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample04/Sample04.iml" filepath="$PROJECT_DIR$/week02/Sample04/Sample04.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample05/Sample05.iml" filepath="$PROJECT_DIR$/week02/Sample05/Sample05.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample06/Sample06.iml" filepath="$PROJECT_DIR$/week02/Sample06/Sample06.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample07/Sample07.iml" filepath="$PROJECT_DIR$/week02/Sample07/Sample07.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/Sample08/Sample08.iml" filepath="$PROJECT_DIR$/week02/Sample08/Sample08.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
     </modules>
   </component>
 </project>
