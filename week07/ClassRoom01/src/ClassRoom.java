@@ -25,7 +25,7 @@ public class ClassRoom {
                 System.out.println(students[i]);
             line(50);
         } else {
-            System.out.println("\t\t\t\t 대학교 성적표");
+            System.out.println("\t\t\t\t 대학교성적표");
             line(80);
             System.out.printf("  학변 이름  %s  성적  등수\n",
                     students[0].partsNameList());
