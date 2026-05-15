@@ -16,7 +16,7 @@ public class PhoneOffice {
 
     protected void display() {
         line();
-        System.out.println("xkdlf");
+        System.out.println("탕일");
         line();
         for (int i = 0; i < customers.length; i++)
             System.out.println(customers[i]);
