@@ -19,7 +19,7 @@ public class Customer {
     protected void inputUsage() throws IOException {
         Scanner keyboard = new Scanner(System.in);
         while (true) {
-            System.out.printf("[%s] %s 님 수도 사용량 입력 : ", typeName(), name);
+            System.out.printf("[%s] %s 님수도 사용량 입력 : ", typeName(), name);
             usage = keyboard.nextFloat();
             if (usage >= 0.0f && usage <= 999.9f)
                 break;
