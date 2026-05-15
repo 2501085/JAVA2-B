@@ -1,7 +1,7 @@
 public class DiscountPlan extends Plan{
 
     public DiscountPlan() {
-        super("할인 요금제");
+        super("할인  요금제");
     }
 
 
