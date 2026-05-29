@@ -135,7 +135,7 @@ public class ExcelHandler {
         cell.setCellValue("선택");
         cell.setCellStyle(titleStyle);
         cell = row.createCell(7);
-        cell.setCellValue("합계");
+        cell.setCellValue("합 계");
         cell.setCellStyle(titleStyle);
         cell = row.createCell(8);
         cell.setCellValue("평균");
