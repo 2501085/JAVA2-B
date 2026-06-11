@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="jdk" jdkName="24" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="poi-bin-5.2" level="project" />
-    <orderEntry type="library" name="poi-bin-5.3" level="project" />
+    <orderEntry type="library" exported="" name="javase-3.5.4" level="project" />
+    <orderEntry type="library" exported="" name="core-3.5.4" level="project" />
   </component>
 </module>
